@@ -1,0 +1,5 @@
+TODO:Add home in menu
+TODO:Add options to customize keys in a menu for each game
+TODO:Add custom key option in home for common keys or popup new window
+TODO:Add leaderboard for each game
+TODO:Add menu with list of games that routes to them
